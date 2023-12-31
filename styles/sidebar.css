@@ -3,7 +3,7 @@
   left: 0;
   bottom: 0;
   top: 55px;
-  background-color: white;
+  background-color: rgb(255, 91, 91);
   width: 72px;
   z-index: 200;
   padding-top: 5px;
@@ -19,7 +19,7 @@
 }
 
 .sidebar-link:hover {
-  background-color: rgb(235, 235, 235);
+  background-color: rgb(253, 17, 17);
 }
 
 .sidebar-link img {
